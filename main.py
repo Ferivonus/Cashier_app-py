@@ -1,8 +1,8 @@
 
 ###############################################################################
 # developer : Fahrettin Baştürk
-# date : 12.05.2020
-# version : 2.0.0
+# date : 12.03.2022
+# version : 2.0.1
 # leanguage : python
 # description : This program is a simple shopping program.
 #              It asks the user to buy things and it calculates the money
